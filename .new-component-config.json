@@ -1,8 +1,8 @@
 {
-  "type": "functional",
-  "prettierConfig": {
-    "semi": true,
-    "singleQuote": true,
-    "trailingComma": "es5"
-  }
+    "type": "functional",
+    "prettierConfig": {
+        "semi": true,
+        "singleQuote": true,
+        "trailingComma": "es5"
+    }
 }

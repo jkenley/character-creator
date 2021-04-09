@@ -1,0 +1,17 @@
+.bgTop {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: hsl(180deg, 25%, 92%);
+}
+
+.bgBottom {
+    position: fixed;
+    top: 80%;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: hsl(195deg, 20%, 86%);
+}

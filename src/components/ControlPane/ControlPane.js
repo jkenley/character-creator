@@ -16,7 +16,6 @@ const ControlPane = ({
     <div className={styles.controlPane}>
       <h2 className={styles.title}>
         {title}
-
         <span className={styles.metadata}>
           {options.length} options
         </span>
